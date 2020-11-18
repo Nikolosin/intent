@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="sync">Синхронизация</string>
+    <string name="start">Запуск</string>
+    <string name="morn">Утренняя синхронизация</string>
+    <string name="after">Дневная синхронизация</string>
+    <string name="even">Вечернаяя синхронизация</string>
+</resources>
